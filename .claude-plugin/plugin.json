@@ -1,0 +1,20 @@
+{
+  "name": "logo-repolish",
+  "version": "1.0.0",
+  "description": "Rebuild an existing logo as a precise vector, audit it against design rules, and export a complete brand kit (formats, themes, lockups, favicons, profile pictures, social covers), all locally.",
+  "author": {
+    "name": "Ali Raza",
+    "url": "https://github.com/ali-raza-arain"
+  },
+  "homepage": "https://github.com/ali-raza-arain/logo-repolish-skill",
+  "repository": "https://github.com/ali-raza-arain/logo-repolish-skill",
+  "license": "MIT",
+  "keywords": [
+    "logo",
+    "vectorize",
+    "svg",
+    "brand-kit",
+    "favicon",
+    "design"
+  ]
+}

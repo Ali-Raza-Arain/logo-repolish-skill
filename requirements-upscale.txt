@@ -1,0 +1,7 @@
+# Optional, only for upscale.py. Install the CPU build of PyTorch:
+#   pip install -r requirements-upscale.txt --extra-index-url https://download.pytorch.org/whl/cpu
+# and download the model:
+#   https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth
+torch>=2.1            # 2.14.1
+torchvision>=0.16     # 0.29.1
+spandrel>=0.3         # 0.4.2

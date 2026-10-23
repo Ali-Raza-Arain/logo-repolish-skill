@@ -1,0 +1,16 @@
+{
+  "name": "logo-repolish",
+  "description": "The logo-repolish skill: precise logo vectors and complete brand kits, made locally.",
+  "owner": {
+    "name": "Ali Raza"
+  },
+  "plugins": [
+    {
+      "name": "logo-repolish",
+      "source": "./",
+      "description": "Rebuild an existing logo as a precise vector, audit it against design rules, and export a complete brand kit, all locally.",
+      "version": "1.0.0",
+      "category": "design"
+    }
+  ]
+}

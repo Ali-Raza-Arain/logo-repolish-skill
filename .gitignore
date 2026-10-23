@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build output
+dist/
+
+# Local work: keep logos and kits out of the repository
+work/
+kit/
+out/
+*.pth
+
+# Editors and systems
+.DS_Store
+.idea/
+.vscode/

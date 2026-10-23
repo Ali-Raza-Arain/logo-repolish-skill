@@ -1,0 +1,19 @@
+{
+  "_about": "Classic palettes used by consultancies, banks and engineering firms. They avoid trend colours that date quickly (neon, purple-cyan gradients, acid green). Each pair: bg is the background, fg the mark colour. 'keep' as fg means: use the logo's own colour(s) unchanged. Contrast of every fixed pair is at least 4:1.",
+  "palettes": [
+    {"name": "navy-white", "label": "Navy and white", "bg": "#0e1f38", "fg": "#ffffff"},
+    {"name": "navy-brand", "label": "Navy and the logo colour", "bg": "#0e1f38", "fg": "keep"},
+    {"name": "racing-green-cream", "label": "Racing green and cream", "bg": "#12352a", "fg": "#ece4d2"},
+    {"name": "racing-green-brand", "label": "Racing green and the logo colour", "bg": "#12352a", "fg": "keep"},
+    {"name": "oxblood-cream", "label": "Oxblood and cream", "bg": "#4a1521", "fg": "#ece4d2"},
+    {"name": "oxblood-gold", "label": "Oxblood and gold", "bg": "#4a1521", "fg": "#c4a062"},
+    {"name": "graphite-cream", "label": "Graphite and cream", "bg": "#26282c", "fg": "#ece4d2"},
+    {"name": "steel-white", "label": "Steel blue and white", "bg": "#2f4256", "fg": "#ffffff"},
+    {"name": "petrol-sand", "label": "Petrol and sand", "bg": "#0f363c", "fg": "#d8c39a"},
+    {"name": "stone-navy", "label": "Stone and navy", "bg": "#e6e2d9", "fg": "#0e1f38"},
+    {"name": "stone-oxblood", "label": "Stone and oxblood", "bg": "#e6e2d9", "fg": "#4a1521"},
+    {"name": "ink-brand", "label": "Near-black and the logo colour", "bg": "#03070d", "fg": "keep"},
+    {"name": "white-brand", "label": "White and the logo colour", "bg": "#ffffff", "fg": "keep"},
+    {"name": "black-white", "label": "Black and white", "bg": "#03070d", "fg": "#f5f5f5"}
+  ]
+}
