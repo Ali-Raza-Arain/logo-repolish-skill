@@ -131,7 +131,7 @@ Put your logo file in the project, then ask in your own words. For example:
 - "From `brand/logo.svg`, make a full kit: light and dark versions, transparent PNGs and a PDF for the printer."
 - "Make favicons and app icons for the website from our logo and update the head tags."
 - "Make profile pictures from the logo in a few professional colour schemes so I can choose."
-- "Make a LinkedIn company cover with the headline 'Field service software' and our site example.com."
+- "Make a LinkedIn company cover with the headline '<your headline>' and our site <your-domain.com>."
 - "Our logo is a 3D gold render at 1024 px. Make an HD version without ruining the shine."
 
 What to expect: Claude asks for the best source and the official colour if it is unclear, builds the vector,
